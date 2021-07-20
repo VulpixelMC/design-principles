@@ -15,4 +15,4 @@ does this by making neutral wolves friendly upon taming.
 should be avoided, unless your mod involves geopolitics. Trying to create "fair" depictions is normally just creating depictions that support the status quo,
 remember this: your work is propaganda once it includes partisan aspects.
 
-- Fauna degradation should be visible. Minecraft does this pretty well by the nature of just not respawning passive mobs, but feel welcome to go further.
+- Fauna degradation should be visible. Minecraft does this pretty well by the nature of just not respawning passive mobs, but feel free to go further.
